@@ -1,0 +1,1 @@
+﻿Answer: all of them will execute under 400 miliseconds.
